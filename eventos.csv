@@ -1,39 +1,39 @@
-Data,Início,Fim,Tipo,Evento,Contrato,Local,Coordenadora,Formandos,Observações
-02/12/2026,18:00,,Solenidade,Espadim Bombeiros,1061,"Quartel do Comando-Geral do CBMPA – Júlio César, 3000",Jéssica,66,
-02/12/2026,19:00,,Missa,Medicina IDOMED Castanhal,,Paróquia Cristo Rei,Jéssica,30,
-02/12/2026,22:00,,Baile,Espadim D/ Bombeiros,1061,AP – Salão de Festas,Jéssica,66,
-03/12/2026,19:00,,Culto,CIABA,0016,Primeira Igreja Batista,Daiana,,
-03/12/2026,20:00,,Missa,CIABA,0016,Igreja da Sé,Daiana,,
-04/12/2026,19:00,,Culto,Medicina IDOMED Castanhal,,Assembleia de Deus Madureira,Jéssica,30,
-04/12/2026,22:00,05:00,Baile,Medicina Altamira,0018,AP Royal,Jéssica,11,
-05/12/2026,21:00,,Baile,CIABA,0016,Hangar B,Daiana,,
-07/12/2026,19:00,,Aula da Saudade,Medicina FAMAZ,0033,Pommedor – Generalíssimo,Cris,63,10 extras
-08/12/2026,,,Culto,Medicina FAMAZ,0033,Igreja Adventista do Marco,Cris,45,
-08/12/2026,17:00,,Solenidade,Medicina IDOMED Castanhal,,Auditório da Catedral Santa Maria Mãe de Deus,Jéssica,30,
-09/12/2026,,,Aula da Saudade,Marista,,Colégio Marista,Daiana,,
-09/12/2026,18:00,,Solenidade,Medicina UEPA,0026,AP Campestre – Salão de Festas,Daiana,,
-09/12/2026,19:30,,Missa,Medicina FAMAZ,0033,Igreja Basílica,Cris,63,
-10/12/2026,19:00,,Solenidade,Medicina UNIFAMAZ,0033/2021,Salão de Festas da Assembleia Paraense,Cris,63,da empresa
-11/12/2026,,,Solenidade,3º Ano Santa Catarina,,Assembleia Paraense – Salão Royal,Jéssica,,
-11/12/2026,18:00,,Aula da Saudade,Odonto CESUPA,0024/2023,Local a confirmar,Cris,27,7 extras
-12/12/2026,,,Baile,Medicina FAMAZ,0033,Hangar,Cris,63,
-12/12/2026,19:30,,Missa,3º Ano Santa Catarina,,Capela de Lourdes,Jéssica,,Organização do colégio
-14/12/2026,15:00,,Aula da Saudade,Medicina CESUPA,,CESUPA,Cris,,
-14/12/2026,17:00,,Solenidade,Medicina UFPA,0027/2021,Local a definir,Cris,38,da empresa
-14/12/2026,20:00,,Aula da Saudade,Medicina CESUPA,,Pommedor,Cris,,
-15/12/2026,19:00,,Aula da Saudade,Medicina UFPA,0027/2021,Pommedor – Generalíssimo,Cris,38,
-15/12/2026,19:00,,Missa,Marista,,Basílica,Daiana,,
-16/12/2026,16:00,,Aula da Saudade,Odonto FAMAZ,0044/23,Local a confirmar,Daiana,,
-16/12/2026,19:00,,Solenidade,Marista,,CENTUR,Daiana,,
-16/12/2026,19:30,,Missa,Medicina CESUPA,0022,Basílica,Cris,70,
-17/12/2026,19:00,,Missa,30 Anos de Médicos,1043,Igreja SAL,Daiana,,
-17/12/2026,20:00,,Culto,Medicina UFPA – Turmas A/B,0027/2021,"Igreja Batista Reviver – Rua Curuçá, 700 – Telégrafo",Cris,38,
-18/12/2026,19:00,,Solenidade,Medicina CESUPA,0022,Hangar,Cris,70,
-18/12/2026,20:00,,Missa,Medicina UFPA,0027/2021,Igreja de Aparecida,Cris,38,
-18/12/2026,21:00,,Baile,30 Anos de Médicos,,Usina,Daiana,,
-19/12/2026,21:00,,Baile,Terceirão Marista,,Hangar,Daiana,,
-19/12/2026,22:00,,Baile,IDOMED Castanhal,0010/22,AP Campestre,Jéssica,,
-22/12/2026,,,Baile,CESUPA,0022,Hangar,Cris,70,100%
-23/12/2026,19:30,,Missa,Medicina UEPA,0026,Igreja São Judas Tadeu,Daiana,,
-26/12/2026,21:00,,Baile,Medicina UEPA,0026,Hangar,Daiana,,
-27/12/2026,,,Baile,Medicina UFPA – Turmas A/B,0027/21,Hangar,Cris,38,50%
+"Data","Início","Fim","Tipo","Evento","Contrato","Local","Coordenadora","Formandos","Observações"
+"2026-12-02","18:00","","Solenidade","Espadim Bombeiros","#1061","Quartel do Comando-Geral do CBMPA – Júlio César, 3000","Jéssica","66",""
+"2026-12-02","19:00","","Missa","Medicina IDOMED Castanhal","","Paróquia Cristo Rei","Jéssica","30",""
+"2026-12-02","22:00","","Baile","Espadim D/ Bombeiros","#1061","AP – Salão de Festas","Jéssica","66",""
+"2026-12-03","19:00","","Culto","CIABA","#0016","Primeira Igreja Batista","Daiana","",""
+"2026-12-03","20:00","","Missa","CIABA","#0016","Igreja da Sé","Daiana","",""
+"2026-12-04","19:00","","Culto","Medicina IDOMED Castanhal","","Assembleia de Deus Madureira","Jéssica","30",""
+"2026-12-04","22:00","05:00","Baile","Medicina Altamira","#0018","AP Royal","Jéssica","11",""
+"2026-12-05","21:00","","Baile","CIABA","#0016","Hangar B","Daiana","",""
+"2026-12-07","19:00","","Aula da Saudade","Medicina FAMAZ","#0033","Pommedor – Generalíssimo","Cris","63","10 extras"
+"2026-12-08","","","Culto","Medicina FAMAZ","#0033","Igreja Adventista do Marco","Cris","45",""
+"2026-12-08","17:00","","Solenidade","Medicina IDOMED Castanhal","","Auditório da Catedral Santa Maria Mãe de Deus","Jéssica","30",""
+"2026-12-09","","","Aula da Saudade","Marista","","Colégio Marista","Daiana","",""
+"2026-12-09","18:00","","Solenidade","Medicina UEPA","#0026","AP Campestre – Salão de Festas","Daiana","",""
+"2026-12-09","19:30","","Missa","Medicina FAMAZ","#0033","Igreja Basílica","Cris","63",""
+"2026-12-10","19:00","","Solenidade","Medicina UNIFAMAZ","#0033/2021","Salão de Festas da Assembleia Paraense","Cris","63","da empresa"
+"2026-12-11","","","Solenidade","3º Ano Santa Catarina","","Assembleia Paraense – Salão Royal","Jéssica","",""
+"2026-12-11","18:00","","Aula da Saudade","Odonto CESUPA","#0024/2023","Local a confirmar","Cris","27","7 extras"
+"2026-12-12","","","Baile","Medicina FAMAZ","#0033","Hangar","Cris","63",""
+"2026-12-12","19:30","","Missa","3º Ano Santa Catarina","","Capela de Lourdes","Jéssica","","Organização do colégio"
+"2026-12-14","15:00","","Aula da Saudade","Medicina CESUPA","","CESUPA","Cris","",""
+"2026-12-14","17:00","","Solenidade","Medicina UFPA","#0027/2021","Local a definir","Cris","38","da empresa"
+"2026-12-14","20:00","","Aula da Saudade","Medicina CESUPA","","Pommedor","Cris","",""
+"2026-12-15","19:00","","Aula da Saudade","Medicina UFPA","#0027/2021","Pommedor – Generalíssimo","Cris","38",""
+"2026-12-15","19:00","","Missa","Marista","","Basílica","Daiana","",""
+"2026-12-16","16:00","","Aula da Saudade","Odonto FAMAZ","#0044/23","Local a confirmar","Daiana","",""
+"2026-12-16","19:00","","Solenidade","Marista","","CENTUR","Daiana","",""
+"2026-12-16","19:30","","Missa","Medicina CESUPA","#0022","Basílica","Cris","70",""
+"2026-12-17","19:00","","Missa","30 Anos de Médicos","#1043","Igreja SAL","Daiana","",""
+"2026-12-17","20:00","","Culto","Medicina UFPA – Turmas A/B","#0027/2021","Igreja Batista Reviver – Rua Curuçá, 700 – Telégrafo","Cris","38",""
+"2026-12-18","19:00","","Solenidade","Medicina CESUPA","#0022","Hangar","Cris","70",""
+"2026-12-18","20:00","","Missa","Medicina UFPA","#0027/2021","Igreja de Aparecida","Cris","38",""
+"2026-12-18","21:00","","Baile","30 Anos de Médicos","","Usina","Daiana","",""
+"2026-12-19","21:00","","Baile","Terceirão Marista","","Hangar","Daiana","",""
+"2026-12-19","22:00","","Baile","IDOMED Castanhal","#0010/22","AP Campestre","Jéssica","",""
+"2026-12-22","","","Baile","CESUPA","#0022","Hangar","Cris","70","100%"
+"2026-12-23","19:30","","Missa","Medicina UEPA","#0026","Igreja São Judas Tadeu","Daiana","",""
+"2026-12-26","21:00","","Baile","Medicina UEPA","#0026","Hangar","Daiana","",""
+"2026-12-27","","","Baile","Medicina UFPA – Turmas A/B","#0027/21","Hangar","Cris","38","50%"
