@@ -37,6 +37,10 @@ gh repo create calendario-eventos --private --source . --push
 
 Depois, no repositório: **Settings > Pages > Deploy from a branch > main / (root)**.
 
+### Estado atual
+
+O repositório está **público** e o site está no GitHub Pages: https://rasgraficarapida21.github.io/calendario-eventos/ . Qualquer pessoa com o link vê a página, o `eventos.csv` e o link da planilha, e a planilha está editável por quem tiver o link dela. Para voltar a ter privacidade, torne o repositório privado em Settings (o Pages sai do ar no plano gratuito).
+
 ### Atenção à privacidade
 
 - Repositório privado **não deixa a página privada**: o GitHub Pages publica o site para qualquer pessoa com o link (só o plano Enterprise Cloud restringe o acesso). Pages a partir de repositório privado também exige plano pago (Pro/Team).
