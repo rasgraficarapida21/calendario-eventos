@@ -1,4 +1,4 @@
-# Agenda de eventos – Mais Formaturas
+# Agenda de eventos
 
 Calendário interativo de eventos (um único `index.html`, sem instalação) que:
 
